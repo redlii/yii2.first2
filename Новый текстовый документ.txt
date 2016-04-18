@@ -1,0 +1,27 @@
+google map
+http://www.yiiframework.com/extension/yii2-google-maps-library
+rbac admin
+http://krivochenko.ru/blog/post/using-yii2-users
+http://www.yiiframework.com/doc-2.0/guide-security-authorization.html
+http://developer.uz/blog/rbac-роли-и-пользователи-в-yii2/
+https://yiiframework.com.ua/ru/doc/guide/2/security-authorization/
+http://rgblog.ru/page/yii2-i-rbac-kontrol-dostupa-na-osnove-rolej
+https://www.youtube.com/watch?v=6lULQuqyCiE
+
+
+http://www.yiiframework.ru/forum/viewtopic.php?t=4450&start=50
+
+http://www.elisdn.ru/blog/76/seo-service-on-yii2-admin-and-sef
+
+Using module
+1
+https://github.com/CostaRico/yii2-images
+2
+kartik-v/yii2-widget-datepicker
+3
+
+
+for fix composer:
+composer global update fxp/composer-asset-plugin --no-plugins
+then:
+composer update
